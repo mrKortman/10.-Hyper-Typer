@@ -15,7 +15,7 @@ namespace _10.Hyper_Typer
      * break line bereikt, ieder character wat op tijd wordt weggetyped geeft je een punt
      * ieder character dat tegen de break line aan komt reduceert een punt.
      * 
-     * NOTE : Dit programma is nog niet afgerond!!
+     * NOTE : Dit programma is nog niet afgerond!!!
      */
     class Program
     {
